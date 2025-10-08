@@ -2,6 +2,6 @@ fastapi
 uvicorn
 python-dotenv
 pydantic
-serpapi==0.1.5
+serpapi
 groq
 requests
