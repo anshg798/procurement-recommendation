@@ -2,6 +2,6 @@ fastapi
 uvicorn
 python-dotenv
 pydantic
-serpapi
+google-search-results==2.4.2
 groq
 requests
